@@ -1,0 +1,3 @@
+SD (included with Arduino IDE)
+SPI (included with Arduino IDE)
+MAX6675 (install from Library Manager)
